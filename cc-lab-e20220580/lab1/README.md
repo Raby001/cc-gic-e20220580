@@ -31,7 +31,6 @@ Copy this template to `cc-lab-YOUR_ID/lab1/README.md` in your own repository. Fo
 
 ![SSH connection](images/05-ssh-connection.png)
 
-Did you connect with your own SSH client or with EC2 Instance Connect?
 
 ---
 
@@ -56,7 +55,9 @@ Did you connect with your own SSH client or with EC2 Instance Connect?
 Paste the commands you ran to install the web server and create `index.html`:
 
 ```bash
-
+sudo dnf install -y httpd
+sudo systemctl enable --now httpd
+echo "Welcome to the EC2 Challenge" | sudo tee /var/www/html/index.html
 ```
 
 ### Browser test
