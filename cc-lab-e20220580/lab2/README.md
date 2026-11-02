@@ -53,6 +53,8 @@ Copy this template to `cc-lab-YOUR_ID/lab2/README.md` in your own repository. Fo
 
 About how many minutes passed between stopping `httpd` and the new instance becoming healthy?
 
+==> It took around 6mn, from unhealth to drain to health again
+
 ---
 
 ## Questions
