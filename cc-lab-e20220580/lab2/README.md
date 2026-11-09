@@ -1,11 +1,9 @@
 # Cloud Lab 2 Submission — Load Balancer and Auto Scaling
 
-Copy this template to `cc-lab-YOUR_ID/lab2/README.md` in your own repository. Follow [the instructions](lab2-instruction.md). Put your screenshots in `lab2/images/` with the file names below.
-
-- **Student name:**
-- **Student ID:**
-- **Learner Lab user name:**
-- **Date completed:**
+- **Student name: Han Raby**
+- **Student ID: e20220580**
+- **Learner Lab user name: Han Raby**
+- **Date completed: 02 November 2026**
 
 ---
 
